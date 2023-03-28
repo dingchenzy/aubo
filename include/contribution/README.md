@@ -1,0 +1,1 @@
+向aubo_control提供特性

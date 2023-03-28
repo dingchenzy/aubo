@@ -1,0 +1,13 @@
+src
+node_modules
+
+package-lock.json
+tsconfig.json
+.travis.yml
+.idea
+.git
+
+.editorconfig
+.gitignore
+.releaserc
+.npmrc
